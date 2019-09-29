@@ -19,4 +19,4 @@ Access the running app in a browser at the URL written to the console (http://0.
 
 ### 2. Testing the API
 
-To test the API you use [Postman](https://www.youtube.com/watch?v=o-2Nfqr0hcc).
+To test the API you can use [Postman](https://www.youtube.com/watch?v=o-2Nfqr0hcc).
