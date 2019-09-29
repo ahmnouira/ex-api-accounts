@@ -1,0 +1,29 @@
+{
+  "name": "ex-api-accounts",
+  "version": "1.0.0",
+  "description": "Rest API for Accounts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmnouira/ex-api-accounts.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "API",
+    "REST"
+  ],
+  "author": "Ahmed Nouira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmnouira/ex-api-accounts/issues"
+  },
+  "homepage": "https://github.com/ahmnouira/ex-api-accounts#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^3.3.3"
+  }
+}
